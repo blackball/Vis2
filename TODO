@@ -1,0 +1,7 @@
+Refactor Vis
+
+Goals: 
+1. Simplify it the codes: remove spdlog/fmt deps; More modular design. Builtin imgui support. 
+2. Improve lighting.
+3. Improve user interfaces.
+4. Support pip installation.
